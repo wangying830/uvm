@@ -1,0 +1,6 @@
+scope tb
+force PORT0_DELAY 800
+force PORT1_DELAY 810
+force PORT2_DELAY 820
+force PORT3_DELAY 830
+force PORT4_DELAY 840
